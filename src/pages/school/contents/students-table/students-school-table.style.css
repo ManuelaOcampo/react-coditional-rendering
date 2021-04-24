@@ -1,0 +1,14 @@
+.students-school-table-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 40px;
+    border:2px solid olivedrab;
+    margin-top: 10px;
+    font: normal 50px arial, helvetica, sans-serif;
+    font-weight: bold;
+      
+}
+.space{
+   white-space:pre-wrap;
+    word-spacing: 85px;
+}

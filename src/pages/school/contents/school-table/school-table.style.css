@@ -1,0 +1,6 @@
+.school-table-container{
+    min-width: 300px;
+    min-height: 500px;
+    border:2px solid red;
+    font: normal 55px arial, helvetica, sans-serif;
+}
